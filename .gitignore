@@ -1,0 +1,21 @@
+## macOS
+.DS_Store
+
+## Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+*.moved-aside
+
+## Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+## XcodeGen — project.yml is source of truth, generated project is regenerable
+run.xcodeproj/
+
+## misc
+*.log
