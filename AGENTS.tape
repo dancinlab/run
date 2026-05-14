@@ -47,6 +47,8 @@
   emoji = "🏃‍♀"
   one_liner = "텅 비어있는 슈퍼앱 — 카테고리만 있고 내용은 사용자가 채운다"
   kind = "iOS / macOS / watchOS super-app shell (empty by default)"
+  brief = "empty-canvas super-app · iOS/macOS/watchOS"
+  parent = "dancinlab"
   platforms = ["iOS", "macOS", "watchOS"]
   bundle_id = "app.run.needsingularity"
   repo = "github.com/dancinlab/run"
